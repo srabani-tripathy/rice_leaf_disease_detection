@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "rice-leaf-disease-detection"
-AUTHOR_USER_NAME = "smruti"
+AUTHOR_USER_NAME = "srabani"
 SRC_REPO = "rldd"
-AUTHOR_EMAIL = "srsingh2678@gmail.com"
+AUTHOR_EMAIL = "srabanitripathy04@gmail.com"
 
 
 setuptools.setup(
